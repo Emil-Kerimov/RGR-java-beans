@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSheet>
+    <data>
+        <date>2024-05-05</date>
+        <x>1.0</x>
+        <y>1.0</y>
+    </data>
+    <data>
+        <date>2024-05-05</date>
+        <x>2.0</x>
+        <y>2.0</y>
+    </data>
+    <data>
+        <date>2024-05-05</date>
+        <x>3.0</x>
+        <y>3.0</y>
+    </data>
+    <data>
+        <date>2024-05-06</date>
+        <x>4.0</x>
+        <y>4.0</y>
+    </data>
+    <data>
+        <date>2024-05-06</date>
+        <x>5.0</x>
+        <y>5.0</y>
+    </data>
+    <data>
+        <date>2024-05-06</date>
+        <x>-1.0</x>
+        <y>-1.0</y>
+    </data>
+    <data>
+        <date>2024-05-06</date>
+        <x>-2.0</x>
+        <y>-2.0</y>
+    </data>
+    <data>
+        <date>2024-05-06</date>
+        <x>0.0</x>
+        <y>0.0</y>
+    </data>
+</dataSheet>
